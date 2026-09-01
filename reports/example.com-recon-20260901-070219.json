@@ -1,0 +1,23 @@
+{
+  "tool": "RECONX",
+  "version": "0.1.0",
+  "target": "example.com",
+  "generated_at": "2026-09-01T07:02:15.904739",
+  "results": {
+    "dns": {
+      "target": "example.com",
+      "a_records": [
+        "172.66.147.243"
+      ],
+      "aaaa_records": [
+        "2606:4700:10::6814:179a"
+      ],
+      "mx_records": [],
+      "ns_records": [],
+      "cname_records": []
+    },
+    "headers": "HTTP header inspection completed.",
+    "technologies": "Technology detection completed.",
+    "ports": "Port check completed."
+  }
+}

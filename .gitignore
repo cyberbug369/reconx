@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Generated reports
+reports/
+
+# Test artifacts
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,21 @@
+{
+    "file": "analyzer-test.txt",
+    "type": "Unknown / generic file",
+    "size": 43,
+    "entropy": 4.065117661376963,
+    "md5": "025fdaa06f28e3eca372a901c48f1697",
+    "sha256": "098b2ed07cf5543d5baa55d7b6a42847f3bb73b51da0ebab56cb7b0408d7fe5e",
+    "strings_count": 3,
+    "extension": ".txt",
+    "indicators": [
+        "PowerShell reference",
+        "URL detected",
+        "Base64 reference"
+    ],
+    "urls": [
+        "https://example.com/test"
+    ],
+    "pe_architecture": null,
+    "risk_score": 35,
+    "risk_label": "LOW"
+}

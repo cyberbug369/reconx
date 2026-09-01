@@ -1,0 +1,12 @@
+{
+  "tool": "RECONX",
+  "version": "0.1.0",
+  "target": "example.com",
+  "generated_at": "2026-09-01T06:53:02.908502",
+  "results": {
+    "dns": "DNS inspection completed.",
+    "headers": "HTTP header inspection completed.",
+    "technologies": "Technology detection completed.",
+    "ports": "Port check completed."
+  }
+}
